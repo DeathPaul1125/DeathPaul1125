@@ -28,9 +28,7 @@
 ---
 
 ## 🌐 Conéctemos
-- 💼 LinkedIn: [Tu LinkedIn](https://linkedin.com/in/TUUSUARIO)  
-- 🌎 Portfolio: [Tu Web o Blog](https://tusitio.com)  
-- 📧 Email: tuemail@ejemplo.com  
+- 📧 Email: civernet@gmail.com 
 
 ---
 
