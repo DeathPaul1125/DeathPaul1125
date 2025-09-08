@@ -25,7 +25,29 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&margin-w=15)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=radical)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TUUSUARIO&theme=radical)
+![Repos y Commits](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUUSUARIO&theme=radical)
+![Commits por día](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TUUSUARIO&theme=radical)
+
+
 ---
+
+## 📊 Mi actividad en GitHub
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TUUSUARIO&theme=radical)
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUUSUARIO&theme=radical)
+![Productividad](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TUUSUARIO&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
+
+
+
 
 ## 🌐 Conéctemos
 - 📧 Email: civernet@gmail.com 
