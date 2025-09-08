@@ -22,10 +22,6 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&margin-w=15)
 ---
