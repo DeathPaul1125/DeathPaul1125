@@ -8,6 +8,7 @@
 
 - 🐘 **PHP** como lenguaje principal
 - 📊 **FacturaScripts**: desarrollo de plugins y personalizaciones para ERP
+- 📂 FacturaScripts: desarrollo de plugins personalizados y facturación electrónica FEL
 - ⚡ **Laravel**: construcción de aplicaciones modernas y robustas
 - 🌱 **Orchid**: paneles de administración flexibles y personalizables
 - 🐝 **BeeFramework**: aplicaciones ligeras y eficientes
