@@ -22,22 +22,6 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&margin-w=15)
----
-
-## 📊 Mi actividad en GitHub
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TUUSUARIO&theme=radical)
-![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUUSUARIO&theme=radical)
-![Productividad](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TUUSUARIO&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
-
-
-
-
 ## 🌐 Conéctemos
 - 📧 Email: civernet@gmail.com 
 
